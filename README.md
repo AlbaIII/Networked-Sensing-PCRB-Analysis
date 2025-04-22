@@ -9,7 +9,7 @@ by
 ,
 [Shuowen Zhang](mailto://shuowen.zhang@polyu.edu.hk)
 , 
-and [Yunfeng Guan](mailto://liangeie.liu@polyu.edu.hk).
+and [Liang Liu](mailto://liangeie.liu@polyu.edu.hk).
 Published in IEEE Transactions on Wireless Communications.
 See also the related [preprint](https://arxiv.org/abs/2408.03174).
 
