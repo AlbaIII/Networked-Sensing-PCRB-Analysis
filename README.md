@@ -22,7 +22,7 @@ Briefly, the Posterior Cramer-Rao Bound Analysis and Optimization (transmit and 
 # Overview
 
 The included scripts 
-- are generally written in matlab and require cvx
+- are generally written in matlab and require cvx.
 
 
 # Description of Files
